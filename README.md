@@ -60,6 +60,24 @@ Stable Release(s):
       "serving": {
         "startTime": "2026-02-13T18:20:53.312369Z"
       },
+      "fraction": 0.005,
+      "version": "145.0.7632.76",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "145.0.7632.26 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/145.0.7632.76/releases/1771006853",
+      "serving": {
+        "startTime": "2026-02-13T18:20:53.312369Z"
+      },
       "fraction": 0.099,
       "version": "145.0.7632.76",
       "fractionGroup": "152",
@@ -83,24 +101,6 @@ Stable Release(s):
       "fractionGroup": "151",
       "pinnable": true,
       "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/145.0.7632.76/releases/1771006853",
-      "serving": {
-        "startTime": "2026-02-13T18:20:53.312369Z"
-      },
-      "fraction": 0.005,
-      "version": "145.0.7632.76",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "145.0.7632.26 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/144.0.7559.134/releases/1770759188",
@@ -143,5 +143,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-02-18T16:00:07Z`
+###### Last Update: `2026-02-18T18:00:07Z`
         
