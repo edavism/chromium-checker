@@ -1,23 +1,124 @@
 # Chromium version
 
-Current Version: `146.0.7680.76`
+Current Version: `146.0.7680.80`
 
-Version Update: `2026-03-12T21:08:46Z`
+Version Update: `2026-03-14T01:08:56Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/145.0.7632.160/releases/1773349726",
+      "name": "chrome/platforms/win64/channels/stable/versions/145.0.7632.160/releases/1773450536",
       "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
+        "startTime": "2026-03-14T01:08:56.972740Z"
       },
-      "fraction": 0.627264,
+      "fraction": 0.5645376,
       "version": "145.0.7632.160",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 1,
+      "version": "146.0.7680.80",
+      "fractionGroup": "151",
+      "pinnable": true,
+      "rolloutData": []
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 0.078408,
+      "version": "146.0.7680.80",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "146.0.7680.75 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 0.00495,
+      "version": "146.0.7680.80",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "146.0.7680.65 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 0.09801,
+      "version": "146.0.7680.80",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "146.0.7680.71 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 0.005,
+      "version": "146.0.7680.80",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "146.0.7680.31 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.80/releases/1773450536",
+      "serving": {
+        "startTime": "2026-03-14T01:08:56.972740Z"
+      },
+      "fraction": 0.0627264,
+      "version": "146.0.7680.80",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "146.0.7680.80 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/145.0.7632.162/releases/1773349726",
@@ -33,89 +134,6 @@ Stable Release(s):
           "rolloutName": "146.0.7680.75 Rollout",
           "tag": [
             "control"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.75/releases/1773349726",
-      "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
-      },
-      "fraction": 0.078408,
-      "version": "146.0.7680.75",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "146.0.7680.75 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.76/releases/1773349726",
-      "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
-      },
-      "fraction": 0.00495,
-      "version": "146.0.7680.76",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "146.0.7680.65 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.76/releases/1773349726",
-      "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
-      },
-      "fraction": 1,
-      "version": "146.0.7680.76",
-      "fractionGroup": "151",
-      "pinnable": true,
-      "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.76/releases/1773349726",
-      "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
-      },
-      "fraction": 0.09801,
-      "version": "146.0.7680.76",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "146.0.7680.71 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.76/releases/1773349726",
-      "serving": {
-        "startTime": "2026-03-12T21:08:46.676163Z"
-      },
-      "fraction": 0.005,
-      "version": "146.0.7680.76",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "146.0.7680.31 Rollout",
-          "tag": [
-            "rollout"
           ]
         }
       ]
@@ -179,5 +197,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-03-14T00:00:09Z`
+###### Last Update: `2026-03-14T02:00:20Z`
         
