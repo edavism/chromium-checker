@@ -42,13 +42,13 @@ Stable Release(s):
       "serving": {
         "startTime": "2026-03-14T01:08:56.972740Z"
       },
-      "fraction": 0.078408,
+      "fraction": 0.09801,
       "version": "146.0.7680.80",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "146.0.7680.75 Rollout",
+          "rolloutName": "146.0.7680.71 Rollout",
           "tag": [
             "rollout"
           ]
@@ -89,13 +89,13 @@ Stable Release(s):
       "serving": {
         "startTime": "2026-03-14T01:08:56.972740Z"
       },
-      "fraction": 0.09801,
+      "fraction": 0.078408,
       "version": "146.0.7680.80",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "146.0.7680.71 Rollout",
+          "rolloutName": "146.0.7680.75 Rollout",
           "tag": [
             "rollout"
           ]
@@ -197,5 +197,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-03-17T00:00:21Z`
+###### Last Update: `2026-03-17T02:00:10Z`
         
