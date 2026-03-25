@@ -1,36 +1,36 @@
 # Chromium version
 
-Current Version: `146.0.7680.165`
+Current Version: `147.0.7727.24`
 
-Version Update: `2026-03-23T19:20:11Z`
+Version Update: `2026-03-25T18:21:57Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.154/releases/1774293611",
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.165/releases/1774464994",
       "serving": {
-        "startTime": "2026-03-23T19:20:11.461769Z"
+        "startTime": "2026-03-25T18:56:34.658426Z"
       },
-      "fraction": 0.5,
-      "version": "146.0.7680.154",
+      "fraction": 0.99,
+      "version": "146.0.7680.165",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.155/releases/1774293611",
+      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.166/releases/1774462917",
       "serving": {
-        "startTime": "2026-03-23T19:20:11.461769Z"
+        "startTime": "2026-03-25T18:21:57.690010Z"
       },
-      "fraction": 0.25,
-      "version": "146.0.7680.155",
+      "fraction": 0.005,
+      "version": "146.0.7680.166",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "146.0.7680.164 Rollout",
+          "rolloutName": "147.0.7727.24 Rollout",
           "tag": [
             "control"
           ]
@@ -38,17 +38,17 @@ Stable Release(s):
       ]
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/146.0.7680.164/releases/1774293611",
+      "name": "chrome/platforms/win64/channels/stable/versions/147.0.7727.24/releases/1774462917",
       "serving": {
-        "startTime": "2026-03-23T19:20:11.461769Z"
+        "startTime": "2026-03-25T18:21:57.690010Z"
       },
-      "fraction": 0.25,
-      "version": "146.0.7680.164",
+      "fraction": 0.005,
+      "version": "147.0.7727.24",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "146.0.7680.164 Rollout",
+          "rolloutName": "147.0.7727.24 Rollout",
           "tag": [
             "rollout"
           ]
@@ -71,5 +71,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-03-25T18:00:10Z`
+###### Last Update: `2026-03-25T20:00:10Z`
         
