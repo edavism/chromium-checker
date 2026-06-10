@@ -9,22 +9,15 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.102/releases/1780950464",
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.103/releases/1781116959",
       "serving": {
-        "startTime": "2026-06-08T20:27:44.756707Z"
+        "startTime": "2026-06-10T18:42:39.089774Z"
       },
-      "fraction": 0.25,
-      "version": "149.0.7827.102",
+      "fraction": 1,
+      "version": "149.0.7827.103",
       "fractionGroup": "152",
       "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "149.0.7827.102 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
+      "rolloutData": []
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.103/releases/1780950464",
@@ -36,40 +29,11 @@ Stable Release(s):
       "fractionGroup": "151",
       "pinnable": true,
       "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.54/releases/1780950464",
-      "serving": {
-        "startTime": "2026-06-08T20:27:44.756707Z"
-      },
-      "fraction": 0.5,
-      "version": "149.0.7827.54",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.55/releases/1780950464",
-      "serving": {
-        "startTime": "2026-06-08T20:27:44.756707Z"
-      },
-      "fraction": 0.25,
-      "version": "149.0.7827.55",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "149.0.7827.102 Rollout",
-          "tag": [
-            "control"
-          ]
-        }
-      ]
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2026-06-10T18:00:04Z`
+###### Last Update: `2026-06-10T20:00:04Z`
         
