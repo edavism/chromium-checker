@@ -1,30 +1,30 @@
 # Chromium version
 
-Current Version: `149.0.7827.156`
+Current Version: `150.0.7871.24`
 
-Version Update: `2026-06-16T21:54:34Z`
+Version Update: `2026-06-17T16:07:50Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.115/releases/1781646874",
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.115/releases/1781712470",
       "serving": {
-        "startTime": "2026-06-16T21:54:34.039266Z"
+        "startTime": "2026-06-17T16:07:50.631353Z"
       },
-      "fraction": 0.5,
+      "fraction": 0.495,
       "version": "149.0.7827.115",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.116/releases/1781646874",
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.116/releases/1781712470",
       "serving": {
-        "startTime": "2026-06-16T21:54:34.039266Z"
+        "startTime": "2026-06-17T16:07:50.631353Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.2475,
       "version": "149.0.7827.116",
       "fractionGroup": "152",
       "pinnable": false,
@@ -38,17 +38,53 @@ Stable Release(s):
       ]
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.155/releases/1781646874",
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.155/releases/1781712470",
       "serving": {
-        "startTime": "2026-06-16T21:54:34.039266Z"
+        "startTime": "2026-06-17T16:07:50.631353Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.2475,
       "version": "149.0.7827.155",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": [
         {
           "rolloutName": "149.0.7827.155 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.157/releases/1781712470",
+      "serving": {
+        "startTime": "2026-06-17T16:07:50.631353Z"
+      },
+      "fraction": 0.005,
+      "version": "149.0.7827.157",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "150.0.7871.24 Rollout",
+          "tag": [
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/150.0.7871.24/releases/1781712470",
+      "serving": {
+        "startTime": "2026-06-17T16:07:50.631353Z"
+      },
+      "fraction": 0.005,
+      "version": "150.0.7871.24",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "150.0.7871.24 Rollout",
           "tag": [
             "rollout"
           ]
@@ -71,5 +107,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-06-17T16:00:06Z`
+###### Last Update: `2026-06-17T18:00:09Z`
         
