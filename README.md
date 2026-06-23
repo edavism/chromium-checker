@@ -1,22 +1,69 @@
 # Chromium version
 
-Current Version: `150.0.7871.24`
+Current Version: `149.0.7827.197`
 
-Version Update: `2026-06-17T16:07:50Z`
+Version Update: `2026-06-23T18:35:09Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.156/releases/1782167706",
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.156/releases/1782239709",
       "serving": {
-        "startTime": "2026-06-22T22:35:06.187201Z"
+        "startTime": "2026-06-23T18:35:09.958334Z"
       },
-      "fraction": 0.99,
+      "fraction": 0.495,
       "version": "149.0.7827.156",
       "fractionGroup": "152",
       "pinnable": false,
+      "rolloutData": []
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.158/releases/1782239709",
+      "serving": {
+        "startTime": "2026-06-23T18:35:09.958334Z"
+      },
+      "fraction": 0.2475,
+      "version": "149.0.7827.158",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "149.0.7827.196 Rollout",
+          "tag": [
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.196/releases/1782239709",
+      "serving": {
+        "startTime": "2026-06-23T18:35:09.958334Z"
+      },
+      "fraction": 0.2475,
+      "version": "149.0.7827.196",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "149.0.7827.196 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.197/releases/1782239709",
+      "serving": {
+        "startTime": "2026-06-23T18:35:09.958334Z"
+      },
+      "fraction": 1,
+      "version": "149.0.7827.197",
+      "fractionGroup": "151",
+      "pinnable": true,
       "rolloutData": []
     },
     {
@@ -54,22 +101,11 @@ Stable Release(s):
           ]
         }
       ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/149.0.7827.156/releases/1781646874",
-      "serving": {
-        "startTime": "2026-06-16T21:54:34.039266Z"
-      },
-      "fraction": 1,
-      "version": "149.0.7827.156",
-      "fractionGroup": "151",
-      "pinnable": true,
-      "rolloutData": []
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2026-06-23T18:00:05Z`
+###### Last Update: `2026-06-23T20:00:07Z`
         
