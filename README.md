@@ -9,22 +9,22 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.83/releases/1788975758",
+      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.83/releases/1789075346",
       "serving": {
-        "startTime": "2026-09-09T17:42:38.625639Z"
+        "startTime": "2026-09-10T21:22:26.132199Z"
       },
-      "fraction": 0.792,
+      "fraction": 0.495,
       "version": "152.0.7977.83",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.84/releases/1788975758",
+      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.84/releases/1789075346",
       "serving": {
-        "startTime": "2026-09-09T17:42:38.625639Z"
+        "startTime": "2026-09-10T21:22:26.132199Z"
       },
-      "fraction": 0.099,
+      "fraction": 0.2475,
       "version": "152.0.7977.84",
       "fractionGroup": "152",
       "pinnable": false,
@@ -33,6 +33,24 @@ Stable Release(s):
           "rolloutName": "153.0.8010.36 Rollout",
           "tag": [
             "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.36/releases/1789075346",
+      "serving": {
+        "startTime": "2026-09-10T21:22:26.132199Z"
+      },
+      "fraction": 0.2475,
+      "version": "153.0.8010.36",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "153.0.8010.36 Rollout",
+          "tag": [
+            "rollout"
           ]
         }
       ]
@@ -51,24 +69,6 @@ Stable Release(s):
           "rolloutName": "154.0.8037.17 Rollout",
           "tag": [
             "control"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.36/releases/1788975758",
-      "serving": {
-        "startTime": "2026-09-09T17:42:38.625639Z"
-      },
-      "fraction": 0.099,
-      "version": "153.0.8010.36",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "153.0.8010.36 Rollout",
-          "tag": [
-            "rollout"
           ]
         }
       ]
@@ -107,5 +107,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-09-10T20:00:03Z`
+###### Last Update: `2026-09-10T22:00:03Z`
         
