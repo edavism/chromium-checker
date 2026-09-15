@@ -1,22 +1,51 @@
 # Chromium version
 
-Current Version: `154.0.8037.17`
+Current Version: `153.0.8010.48`
 
-Version Update: `2026-09-09T17:42:38Z`
+Version Update: `2026-09-15T19:59:11Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.83/releases/1789496043",
+      "name": "chrome/platforms/win64/channels/stable/versions/152.0.7977.83/releases/1789502351",
       "serving": {
-        "startTime": "2026-09-15T18:14:03.889280Z"
+        "startTime": "2026-09-15T19:59:11.185938Z"
       },
-      "fraction": 0.99,
+      "fraction": 0.7425,
       "version": "152.0.7977.83",
       "fractionGroup": "152",
       "pinnable": false,
+      "rolloutData": []
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.47/releases/1789502351",
+      "serving": {
+        "startTime": "2026-09-15T19:59:11.185938Z"
+      },
+      "fraction": 0.2475,
+      "version": "153.0.8010.47",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "153.0.8010.47 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.48/releases/1789502351",
+      "serving": {
+        "startTime": "2026-09-15T19:59:11.185938Z"
+      },
+      "fraction": 1,
+      "version": "153.0.8010.48",
+      "fractionGroup": "151",
+      "pinnable": true,
       "rolloutData": []
     },
     {
@@ -54,22 +83,11 @@ Stable Release(s):
           ]
         }
       ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.37/releases/1788902339",
-      "serving": {
-        "startTime": "2026-09-08T21:18:59.382281Z"
-      },
-      "fraction": 1,
-      "version": "153.0.8010.37",
-      "fractionGroup": "151",
-      "pinnable": true,
-      "rolloutData": []
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2026-09-15T20:00:04Z`
+###### Last Update: `2026-09-15T22:00:03Z`
         
