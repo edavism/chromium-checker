@@ -9,22 +9,22 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.53/releases/1790189442",
+      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.53/releases/1790283123",
       "serving": {
-        "startTime": "2026-09-23T18:50:42.380821Z"
+        "startTime": "2026-09-24T20:52:03.290456Z"
       },
-      "fraction": 0.792,
+      "fraction": 0.495,
       "version": "153.0.8010.53",
       "fractionGroup": "152",
       "pinnable": false,
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.54/releases/1790189442",
+      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.54/releases/1790283123",
       "serving": {
-        "startTime": "2026-09-23T18:50:42.380821Z"
+        "startTime": "2026-09-24T20:52:03.290456Z"
       },
-      "fraction": 0.099,
+      "fraction": 0.2475,
       "version": "153.0.8010.54",
       "fractionGroup": "152",
       "pinnable": false,
@@ -33,6 +33,24 @@ Stable Release(s):
           "rolloutName": "154.0.8037.57 Rollout",
           "tag": [
             "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.57/releases/1790283123",
+      "serving": {
+        "startTime": "2026-09-24T20:52:03.290456Z"
+      },
+      "fraction": 0.2475,
+      "version": "154.0.8037.57",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "154.0.8037.57 Rollout",
+          "tag": [
+            "rollout"
           ]
         }
       ]
@@ -51,24 +69,6 @@ Stable Release(s):
           "rolloutName": "155.0.8059.12 Rollout",
           "tag": [
             "control"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.57/releases/1790189442",
-      "serving": {
-        "startTime": "2026-09-23T18:50:42.380821Z"
-      },
-      "fraction": 0.099,
-      "version": "154.0.8037.57",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "154.0.8037.57 Rollout",
-          "tag": [
-            "rollout"
           ]
         }
       ]
@@ -107,5 +107,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-09-24T20:00:04Z`
+###### Last Update: `2026-09-24T22:00:04Z`
         
