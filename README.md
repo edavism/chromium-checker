@@ -1,17 +1,17 @@
 # Chromium version
 
-Current Version: `154.0.8037.93`
+Current Version: `155.0.8059.26`
 
-Version Update: `2026-09-29T18:30:43Z`
+Version Update: `2026-09-30T18:35:44Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.58/releases/1790706643",
+      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.58/releases/1790793344",
       "serving": {
-        "startTime": "2026-09-29T18:30:43.713769Z"
+        "startTime": "2026-09-30T18:35:44.104839Z"
       },
       "fraction": 0.495,
       "version": "154.0.8037.58",
@@ -20,9 +20,9 @@ Stable Release(s):
       "rolloutData": []
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.59/releases/1790706643",
+      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.59/releases/1790793344",
       "serving": {
-        "startTime": "2026-09-29T18:30:43.713769Z"
+        "startTime": "2026-09-30T18:35:44.104839Z"
       },
       "fraction": 0.2475,
       "version": "154.0.8037.59",
@@ -38,9 +38,9 @@ Stable Release(s):
       ]
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.92/releases/1790706643",
+      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.92/releases/1790793344",
       "serving": {
-        "startTime": "2026-09-29T18:30:43.713769Z"
+        "startTime": "2026-09-30T18:35:44.104839Z"
       },
       "fraction": 0.2475,
       "version": "154.0.8037.92",
@@ -49,6 +49,42 @@ Stable Release(s):
       "rolloutData": [
         {
           "rolloutName": "154.0.8037.92 Rollout",
+          "tag": [
+            "rollout"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/154.0.8037.94/releases/1790793344",
+      "serving": {
+        "startTime": "2026-09-30T18:35:44.104839Z"
+      },
+      "fraction": 0.005,
+      "version": "154.0.8037.94",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "155.0.8059.26 Rollout",
+          "tag": [
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chrome/platforms/win64/channels/stable/versions/155.0.8059.26/releases/1790793344",
+      "serving": {
+        "startTime": "2026-09-30T18:35:44.104839Z"
+      },
+      "fraction": 0.005,
+      "version": "155.0.8059.26",
+      "fractionGroup": "152",
+      "pinnable": false,
+      "rolloutData": [
+        {
+          "rolloutName": "155.0.8059.26 Rollout",
           "tag": [
             "rollout"
           ]
@@ -65,47 +101,11 @@ Stable Release(s):
       "fractionGroup": "151",
       "pinnable": true,
       "rolloutData": []
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/153.0.8010.55/releases/1790189442",
-      "serving": {
-        "startTime": "2026-09-23T18:50:42.380821Z"
-      },
-      "fraction": 0.005,
-      "version": "153.0.8010.55",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "155.0.8059.12 Rollout",
-          "tag": [
-            "control"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/155.0.8059.12/releases/1790189442",
-      "serving": {
-        "startTime": "2026-09-23T18:50:42.380821Z"
-      },
-      "fraction": 0.005,
-      "version": "155.0.8059.12",
-      "fractionGroup": "152",
-      "pinnable": false,
-      "rolloutData": [
-        {
-          "rolloutName": "155.0.8059.12 Rollout",
-          "tag": [
-            "rollout"
-          ]
-        }
-      ]
     }
   ],
   "nextPageToken": ""
 }
 ```
 
-###### Last Update: `2026-09-30T18:00:05Z`
+###### Last Update: `2026-09-30T20:00:04Z`
         
