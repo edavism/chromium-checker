@@ -66,7 +66,7 @@ Stable Release(s):
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "157.0.8103.15 Rollout",
+          "rolloutName": "157.0.8103.26 Rollout",
           "tag": [
             "rollout"
           ]
@@ -84,7 +84,7 @@ Stable Release(s):
       "pinnable": false,
       "rolloutData": [
         {
-          "rolloutName": "157.0.8103.26 Rollout",
+          "rolloutName": "157.0.8103.15 Rollout",
           "tag": [
             "rollout"
           ]
@@ -143,5 +143,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-11-04T14:00:05Z`
+###### Last Update: `2026-11-04T16:00:07Z`
         
