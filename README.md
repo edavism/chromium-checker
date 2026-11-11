@@ -1,8 +1,8 @@
 # Chromium version
 
-Current Version: `157.0.8103.51`
+Current Version: `157.0.8103.79`
 
-Version Update: `2026-11-09T20:47:31Z`
+Version Update: `2026-11-11T19:50:36Z`
 
 Stable Release(s):
 ```
@@ -107,5 +107,5 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2026-11-11T20:00:05Z`
+###### Last Update: `2026-11-11T22:00:07Z`
         
